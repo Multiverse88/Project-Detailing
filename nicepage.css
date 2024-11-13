@@ -44026,12 +44026,11 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-nav-1 {
   font-family: Poppins;
   font-size: 1rem;
-  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
-  font-size: 1rem;
   font-family: Poppins;
+  font-size: 1rem;
 }
 
 .u-header .u-nav-3 {
@@ -44040,12 +44039,16 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-nav-4 {
-  font-size: 1rem;
   font-family: Poppins;
+  font-size: 1rem;
 }
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
     width: auto;
+  }
+
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
   }
 }
 
@@ -44071,18 +44074,10 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-bottom: 38px;
   }
 
-  .u-header .u-nav-2 {
-    font-size: 0.75rem;
-  }
-
   .u-header .u-nav-3 {
     font-family: Poppins;
     line-height: 0.33;
     margin: 20px auto 0;
-  }
-
-  .u-header .u-nav-4 {
-    font-size: 0.75rem;
   }
 }
 .u-footer .u-sheet-1 {
