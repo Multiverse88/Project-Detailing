@@ -81,6 +81,7 @@
 .u-section-1 .u-btn-1 {
   transition-duration: 0.5s;
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
+  font-size: 0.75rem;
   padding: 0;
 }
 
@@ -91,12 +92,13 @@
 .u-section-1 .u-text-4 {
   font-weight: 700;
   line-height: 0.27;
-  margin: -63px auto 30px 0;
+  margin: -63px auto 21px 0;
 }
 
 .u-section-1 .u-btn-2 {
   transition-duration: 0.5s;
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
+  font-size: 0.75rem;
   padding: 0;
 }
 
@@ -176,6 +178,19 @@
     height: 2155px;
     margin-right: initial;
     margin-left: initial;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 24px;
+    margin-right: -32px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-top: -42px;
+    margin-bottom: 60px;
+    margin-left: -23px;
   }
 }
 
